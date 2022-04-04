@@ -1,0 +1,46 @@
+.bg-container {
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cards-container {
+  padding: 10px;
+  width: 40%;
+  display: flex;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 15px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.google-logo {
+  width: 25%;
+  margin-bottom:5px;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+.input {
+  width: 100%;
+  color: #64748b;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.arrow {
+  height: 20px;
+  width: 20px;
+}
+.items-container {
+  width: 100%;
+}
